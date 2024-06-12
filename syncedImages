@@ -39,3 +39,19 @@ docker.io/library/logstash:7.17.5
 docker.io/library/nginx:1.23.2
 docker.elastic.co/kibana/kibana:7.17.5
 docker.io/library/elasticsearch:7.17.5
+
+mongo:5.0.27
+mongo:5.0-focal
+nginx:stable-alpine3.19-perl
+nginx:stable-alpine3.19-otel
+redis
+mysql:8.4.0
+rabbitmq:3.13.3
+canal/canal-admin:v1.1.6
+ elasticsearch:7.17.5
+docker.elastic.co/kibana/kibana:7.17.5
+logstash:7.17.5
+nacos/nacos-server:v2.2.0
+apache/rocketmq:4.9.6
+apacherocketmq/rocketmq-dashboard:1.0.0
+docker.io/seataio/seata-server:1.5.2
