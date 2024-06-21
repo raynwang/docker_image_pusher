@@ -1,1 +1,2 @@
 eipwork/kuboard-spray:latest-amd64
+redis:6.2.6
