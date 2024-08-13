@@ -1,2 +1,7 @@
 eclipse-temurin:8-jre
 eipwork/kuboard-spray:v1.2.4-amd64
+docker.io/calico/cni:v3.25.0
+docker.io/calico/node:v3.25.0
+docker.io/calico/kube-controllers:v3.25.0
+docker.io/flannel/flannel:v0.25.5
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
