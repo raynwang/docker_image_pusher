@@ -1,2 +1,1 @@
-liwei2633/gopeed
-wahyd4/aria2-ui
+bestrui/baidu
