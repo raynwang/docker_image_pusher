@@ -1,1 +1,3 @@
-bestrui/baidu
+xhofe/alist
+xiaoyaliu/alist
+xhofe/alist-aria2
